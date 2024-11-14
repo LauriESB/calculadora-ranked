@@ -1,7 +1,7 @@
 **Instrutor:** Felipe Aguiar  
 **Plataforma:** [DIO.](https://dio.me)
 
-# 🎯 Calculadora de partidas Rankeadas
+# 🥷🏻 Calculadora de partidas Rankeadas
 
 **O Que deve ser utilizado**
 
